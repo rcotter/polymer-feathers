@@ -1,0 +1,18 @@
+{
+  "entrypoint": "index.html",
+  "shell": "public/my-app.html",
+  "fragments": [
+    "public/my-view1.html",
+    "public/my-view2.html",
+    "public/my-view3.html",
+    "public/my-view404.html"
+  ],
+  "sourceGlobs": [
+   "public/**/*",
+   "images/**/*",
+   "bower.json"
+  ],
+  "includeDependencies": [
+    "bower_components/webcomponentsjs/webcomponents-lite.min.js"
+  ]
+}

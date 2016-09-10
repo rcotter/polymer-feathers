@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "nedb": "../data/",
+  "public": "../build/unbundled",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "4+5AFBA9Ft836dGgabdQQqtseeknaZ2Gv9kSErO0HdR4ZAFFhFM0GzhHsiT5SI9r2jTpNZV2fEgRXFKq0cOh5Q=="
+    },
+    "local": {}
+  }
+}
