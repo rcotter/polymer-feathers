@@ -28,6 +28,8 @@ coverage
 build/Release
 
 # Dependency directories
+bower_components
+build
 node_modules
 jspm_packages
 
